@@ -1,4 +1,4 @@
-# This file was created Thu Mar  5 10:26:11 2026
+# This file was created Thu Mar  5 10:51:45 2026
 # Created by:
 #                      :-) GROMACS - gmx energy, 2025.4 (-:
 # 
@@ -9,7 +9,7 @@
 #   gmx energy -f MM_scan/runs/70/70.edr -o MM_scan/runs/70/energy.xvg
 # gmx energy is part of G R O M A C S:
 #
-# Gyas ROwers Mature At Cryogenic Speed
+# Getting the Right Output Means no Artefacts in Calculating Stuff
 #
 @    title "GROMACS Energies"
 @    xaxis  label "Time (ps)"
