@@ -1,4 +1,4 @@
-# This file was created Thu Mar  5 10:51:44 2026
+# This file was created Thu Mar  5 11:13:28 2026
 # Created by:
 #                      :-) GROMACS - gmx energy, 2025.4 (-:
 # 
@@ -9,7 +9,7 @@
 #   gmx energy -f MM_scan/runs/0/0.edr -o MM_scan/runs/0/energy.xvg
 # gmx energy is part of G R O M A C S:
 #
-# GROtesk MACabre and Sinister
+# Gnomes, ROck Monsters And Chili Sauce
 #
 @    title "GROMACS Energies"
 @    xaxis  label "Time (ps)"
